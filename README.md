@@ -74,7 +74,7 @@ To get started with the Hostel Management Mobile App, follow the instructions be
 
    ```bash
    git clone https://github.com/tanmayyjais/hostelMate.git
-   cd hostel-management-mobile-app
+   cd hostelMate
    ```
 
 2. Install dependencies for the frontend and backend.
