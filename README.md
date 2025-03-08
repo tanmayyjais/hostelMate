@@ -80,25 +80,33 @@ To get started with the Hostel Management Mobile App, follow the instructions be
 2. Install dependencies for the frontend and backend.
 
    # Frontend
+   ```bash
    cd frontend
    npm install
+   ```
 
    # Backend
-   cd backend/src
+   ```bash
+   cd backend
    npm install
+   ```
 
-3. Run the app.
+4. Run the app.
 
    # Run frontend
+   ```bash
    cd frontend
    npx expo start
+   ```
 
    # Run backend
+   ```bash
    cd backend/src
    nodemon app.js
+   ```
 
 
-4. Try with Expo GO app
+6. Try with Expo GO app
 
    Using the Expo Go app in your mobile phone scan the QR code after running npm start
    you can use the app in your actual mobile device.
