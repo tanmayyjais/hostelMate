@@ -39,5 +39,5 @@ frontend/temp.js
 
 # backend
 backend/node_modules
-backend/.env
+backend/src/.env
 
